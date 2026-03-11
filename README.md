@@ -5,8 +5,7 @@ a text prompt using 8 lines of code. The second sample shows how to use the
 zephyr-7b-alpha LLM to generate text from a prompt using 9 lines of code.
 
 If you're new to Python, you'll want to install a program like PyCharm or Jupyter Notebooks 
-so you can run the code. You can even run these samples from the Python command 
-line.
+so you can run the code, or you can run these samples from the Python command line.
 
 There are some Python libraries you'll need to install to use these samples. Add them to your 
 project in PyCharm, or install them with pip:
