@@ -30,13 +30,12 @@ You can ask it almost anything - tell me a joke, write code, answer geography qu
 
 The first time you run this sample it will download about 18GB of data 
 to your computer (on a mac it is cached in /Users/username/.cache/huggingface)
-After that, you don't require internet access to use the model - it's like
-downloading the entire internet on to your computer. It's really quite impressive.
+After that, you don't require internet access to use the model.
 
 Generating answers can take a few minutes, and the longer the response the more time it takes.
 You can tweak the length of the response - I recommend starting off with a lower number like
 100 tokens and then increasing it as you play around. On my computer, generating a
-response of 1000 tokens takes about 6 minutes. Your mileage may vary.
+response of 1000 tokens takes about 6 minutes.
 
 
 
